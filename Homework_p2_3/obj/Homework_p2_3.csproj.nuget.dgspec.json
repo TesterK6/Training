@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\isestacovschi\\source\\repos\\Training_Homework\\Homework_p2_3\\Homework_p2_3.csproj": {}
+    "C:\\Users\\isestacovschi\\ProgrammingCourse\\Training\\Homework_p2_3\\Homework_p2_3.csproj": {}
   },
   "projects": {
-    "C:\\Users\\isestacovschi\\source\\repos\\Training_Homework\\Homework_p2_3\\Homework_p2_3.csproj": {
+    "C:\\Users\\isestacovschi\\ProgrammingCourse\\Training\\Homework_p2_3\\Homework_p2_3.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\isestacovschi\\source\\repos\\Training_Homework\\Homework_p2_3\\Homework_p2_3.csproj",
+        "projectUniqueName": "C:\\Users\\isestacovschi\\ProgrammingCourse\\Training\\Homework_p2_3\\Homework_p2_3.csproj",
         "projectName": "Homework_p2_3",
-        "projectPath": "C:\\Users\\isestacovschi\\source\\repos\\Training_Homework\\Homework_p2_3\\Homework_p2_3.csproj",
+        "projectPath": "C:\\Users\\isestacovschi\\ProgrammingCourse\\Training\\Homework_p2_3\\Homework_p2_3.csproj",
         "packagesPath": "C:\\Users\\isestacovschi\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\isestacovschi\\source\\repos\\Training_Homework\\Homework_p2_3\\obj\\",
+        "outputPath": "C:\\Users\\isestacovschi\\ProgrammingCourse\\Training\\Homework_p2_3\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

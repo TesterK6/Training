@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\isestacovschi\\source\\repos\\Training_Homework\\Homework_p2_5\\Homework_p2_5.csproj",
+      "projectUniqueName": "C:\\Users\\isestacovschi\\ProgrammingCourse\\Training\\Homework_p2_5\\Homework_p2_5.csproj",
       "projectName": "Homework_p2_5",
-      "projectPath": "C:\\Users\\isestacovschi\\source\\repos\\Training_Homework\\Homework_p2_5\\Homework_p2_5.csproj",
+      "projectPath": "C:\\Users\\isestacovschi\\ProgrammingCourse\\Training\\Homework_p2_5\\Homework_p2_5.csproj",
       "packagesPath": "C:\\Users\\isestacovschi\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\isestacovschi\\source\\repos\\Training_Homework\\Homework_p2_5\\obj\\",
+      "outputPath": "C:\\Users\\isestacovschi\\ProgrammingCourse\\Training\\Homework_p2_5\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
