@@ -1,0 +1,15 @@
+C:\Users\isestacovschi\source\repos\Training_Homework\Homework_p2_5\bin\Debug\net6.0\Homework_p2_5.exe
+C:\Users\isestacovschi\source\repos\Training_Homework\Homework_p2_5\bin\Debug\net6.0\Homework_p2_5.deps.json
+C:\Users\isestacovschi\source\repos\Training_Homework\Homework_p2_5\bin\Debug\net6.0\Homework_p2_5.runtimeconfig.json
+C:\Users\isestacovschi\source\repos\Training_Homework\Homework_p2_5\bin\Debug\net6.0\Homework_p2_5.dll
+C:\Users\isestacovschi\source\repos\Training_Homework\Homework_p2_5\bin\Debug\net6.0\Homework_p2_5.pdb
+C:\Users\isestacovschi\source\repos\Training_Homework\Homework_p2_5\obj\Debug\net6.0\Homework_p2_5.csproj.AssemblyReference.cache
+C:\Users\isestacovschi\source\repos\Training_Homework\Homework_p2_5\obj\Debug\net6.0\Homework_p2_5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\isestacovschi\source\repos\Training_Homework\Homework_p2_5\obj\Debug\net6.0\Homework_p2_5.AssemblyInfoInputs.cache
+C:\Users\isestacovschi\source\repos\Training_Homework\Homework_p2_5\obj\Debug\net6.0\Homework_p2_5.AssemblyInfo.cs
+C:\Users\isestacovschi\source\repos\Training_Homework\Homework_p2_5\obj\Debug\net6.0\Homework_p2_5.csproj.CoreCompileInputs.cache
+C:\Users\isestacovschi\source\repos\Training_Homework\Homework_p2_5\obj\Debug\net6.0\Homework_p2_5.dll
+C:\Users\isestacovschi\source\repos\Training_Homework\Homework_p2_5\obj\Debug\net6.0\refint\Homework_p2_5.dll
+C:\Users\isestacovschi\source\repos\Training_Homework\Homework_p2_5\obj\Debug\net6.0\Homework_p2_5.pdb
+C:\Users\isestacovschi\source\repos\Training_Homework\Homework_p2_5\obj\Debug\net6.0\Homework_p2_5.genruntimeconfig.cache
+C:\Users\isestacovschi\source\repos\Training_Homework\Homework_p2_5\obj\Debug\net6.0\ref\Homework_p2_5.dll

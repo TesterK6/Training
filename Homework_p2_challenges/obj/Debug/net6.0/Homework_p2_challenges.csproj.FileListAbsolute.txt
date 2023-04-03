@@ -1,0 +1,15 @@
+C:\Users\isestacovschi\source\repos\Training_Homework\Homework_p2_challenges\bin\Debug\net6.0\Homework_p2_challenges.exe
+C:\Users\isestacovschi\source\repos\Training_Homework\Homework_p2_challenges\bin\Debug\net6.0\Homework_p2_challenges.deps.json
+C:\Users\isestacovschi\source\repos\Training_Homework\Homework_p2_challenges\bin\Debug\net6.0\Homework_p2_challenges.runtimeconfig.json
+C:\Users\isestacovschi\source\repos\Training_Homework\Homework_p2_challenges\bin\Debug\net6.0\Homework_p2_challenges.dll
+C:\Users\isestacovschi\source\repos\Training_Homework\Homework_p2_challenges\bin\Debug\net6.0\Homework_p2_challenges.pdb
+C:\Users\isestacovschi\source\repos\Training_Homework\Homework_p2_challenges\obj\Debug\net6.0\Homework_p2_challenges.csproj.AssemblyReference.cache
+C:\Users\isestacovschi\source\repos\Training_Homework\Homework_p2_challenges\obj\Debug\net6.0\Homework_p2_challenges.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\isestacovschi\source\repos\Training_Homework\Homework_p2_challenges\obj\Debug\net6.0\Homework_p2_challenges.AssemblyInfoInputs.cache
+C:\Users\isestacovschi\source\repos\Training_Homework\Homework_p2_challenges\obj\Debug\net6.0\Homework_p2_challenges.AssemblyInfo.cs
+C:\Users\isestacovschi\source\repos\Training_Homework\Homework_p2_challenges\obj\Debug\net6.0\Homework_p2_challenges.csproj.CoreCompileInputs.cache
+C:\Users\isestacovschi\source\repos\Training_Homework\Homework_p2_challenges\obj\Debug\net6.0\Homework_p2_challenges.dll
+C:\Users\isestacovschi\source\repos\Training_Homework\Homework_p2_challenges\obj\Debug\net6.0\refint\Homework_p2_challenges.dll
+C:\Users\isestacovschi\source\repos\Training_Homework\Homework_p2_challenges\obj\Debug\net6.0\Homework_p2_challenges.pdb
+C:\Users\isestacovschi\source\repos\Training_Homework\Homework_p2_challenges\obj\Debug\net6.0\Homework_p2_challenges.genruntimeconfig.cache
+C:\Users\isestacovschi\source\repos\Training_Homework\Homework_p2_challenges\obj\Debug\net6.0\ref\Homework_p2_challenges.dll

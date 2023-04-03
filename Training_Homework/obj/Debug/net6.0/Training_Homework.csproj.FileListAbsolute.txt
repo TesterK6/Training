@@ -1,0 +1,15 @@
+C:\Users\isestacovschi\source\repos\Training_Homework\Training_Homework\obj\Debug\net6.0\Training_Homework.csproj.AssemblyReference.cache
+C:\Users\isestacovschi\source\repos\Training_Homework\Training_Homework\obj\Debug\net6.0\Training_Homework.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\isestacovschi\source\repos\Training_Homework\Training_Homework\obj\Debug\net6.0\Training_Homework.AssemblyInfoInputs.cache
+C:\Users\isestacovschi\source\repos\Training_Homework\Training_Homework\obj\Debug\net6.0\Training_Homework.AssemblyInfo.cs
+C:\Users\isestacovschi\source\repos\Training_Homework\Training_Homework\obj\Debug\net6.0\Training_Homework.csproj.CoreCompileInputs.cache
+C:\Users\isestacovschi\source\repos\Training_Homework\Training_Homework\bin\Debug\net6.0\Training_Homework.exe
+C:\Users\isestacovschi\source\repos\Training_Homework\Training_Homework\bin\Debug\net6.0\Training_Homework.deps.json
+C:\Users\isestacovschi\source\repos\Training_Homework\Training_Homework\bin\Debug\net6.0\Training_Homework.runtimeconfig.json
+C:\Users\isestacovschi\source\repos\Training_Homework\Training_Homework\bin\Debug\net6.0\Training_Homework.dll
+C:\Users\isestacovschi\source\repos\Training_Homework\Training_Homework\bin\Debug\net6.0\Training_Homework.pdb
+C:\Users\isestacovschi\source\repos\Training_Homework\Training_Homework\obj\Debug\net6.0\Training_Homework.dll
+C:\Users\isestacovschi\source\repos\Training_Homework\Training_Homework\obj\Debug\net6.0\refint\Training_Homework.dll
+C:\Users\isestacovschi\source\repos\Training_Homework\Training_Homework\obj\Debug\net6.0\Training_Homework.pdb
+C:\Users\isestacovschi\source\repos\Training_Homework\Training_Homework\obj\Debug\net6.0\Training_Homework.genruntimeconfig.cache
+C:\Users\isestacovschi\source\repos\Training_Homework\Training_Homework\obj\Debug\net6.0\ref\Training_Homework.dll
